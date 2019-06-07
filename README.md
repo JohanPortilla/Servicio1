@@ -3,6 +3,7 @@
 # Coordinador
 
 Este componente es el coordinador, el cual realiza el ruteo de los datos de la siguiente manera:
+
 Hay que tener en cuenta de dónde viene y hacia donde va.
 
 #### Wallet
